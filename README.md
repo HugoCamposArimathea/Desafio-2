@@ -5,6 +5,8 @@ Espero que gostem! ✌
 
 ### 📸 Fotos do projeto:
 
+<img src="fotos/foto1.png" alt="Foto do projeto">
+<img src="fotos/foto2.png" alt="Foto do projeto">
 
 ### 📧 Caso queira conversar:
   <div>
