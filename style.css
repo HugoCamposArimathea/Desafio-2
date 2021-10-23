@@ -48,15 +48,18 @@
   width: 90%;
   height: 40%;
   line-height: 1.2em;
-  font-size: 1.1em;
+  font-size: min(20px, 3vw);
   padding-top: 8.5%;
   margin: 0 38px;
   color: white;
   max-height: 500px;
   max-width: 500px;
 }
-.conteudo > h1 {
+.conteudo  h1 {
   margin: auto auto 2% auto
+}
+.conteudo p {
+  font-size: min(20px, 4vw);
 }
 body {
   font-family: 'Montserrat', sans-serif;
@@ -88,7 +91,7 @@ body {
 .post:hover {
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.301);
   transition: 1s;
-  transform: scale(1.1) scale(1.1);
+  transform: scale(1) scale(1);
 }
 .post > img {
   width: 90%;
